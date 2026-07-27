@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Tópico 18 - Processamento de Sinais"
+parent: "Aulas"
+nav_order: 18
+---
+
 # Tópico 18 – Regressão Linear [<img src="images/colag_logo.svg" style="float: right; margin-right: 0%; vertical-align: middle; width: 6.5%;">](https://colab.research.google.com/github/urielmoreirasilva/urielmoreirasilva.github.io/blob/main/aulas/T%C3%B3pico%2018%20%E2%80%93%20Correla%C3%A7%C3%A3o%2F18%20%E2%80%93%20Correlacao.ipynb) [<img src="images/github_logo.svg" style="float: right; margin-right: 0%; vertical-align: middle; width: 3.25%;">](https://github.com/urielmoreirasilva/urielmoreirasilva.github.io/blob/main/aulas/T%C3%B3pico%2018%20%E2%80%93%20Correla%C3%A7%C3%A3o%2F18%20%E2%80%93%20Correlacao.ipynb)
 
 Finalmente, após explorarmos o conceito de correlação, chegamos ao último tópico desse curso: o de regressão linear!
@@ -320,7 +327,7 @@ mom_son.plot(kind = 'scatter', x = 'mom', y = 'son');
 
 
     
-![png](18%20%E2%80%93%20Regressao_files/18%20%E2%80%93%20Regressao_12_0.png)
+![png](18%20%E2%80%93%20Regressao_files/18%20%E2%80%93%20Regressao_13_0.png)
     
 
 
@@ -377,7 +384,7 @@ plt.axhline(y_bar, color='orange', lw=4);
 
 
     
-![png](18%20%E2%80%93%20Regressao_files/18%20%E2%80%93%20Regressao_21_0.png)
+![png](18%20%E2%80%93%20Regressao_files/18%20%E2%80%93%20Regressao_22_0.png)
     
 
 
@@ -408,7 +415,7 @@ plt.xlim(-3, 3);
 
 
     
-![png](18%20%E2%80%93%20Regressao_files/18%20%E2%80%93%20Regressao_25_0.png)
+![png](18%20%E2%80%93%20Regressao_files/18%20%E2%80%93%20Regressao_26_0.png)
     
 
 
@@ -456,7 +463,7 @@ plt.legend();
 
 
     
-![png](18%20%E2%80%93%20Regressao_files/18%20%E2%80%93%20Regressao_34_0.png)
+![png](18%20%E2%80%93%20Regressao_files/18%20%E2%80%93%20Regressao_35_0.png)
     
 
 
@@ -618,7 +625,7 @@ plt.legend();
 
 
     
-![png](18%20%E2%80%93%20Regressao_files/18%20%E2%80%93%20Regressao_59_0.png)
+![png](18%20%E2%80%93%20Regressao_files/18%20%E2%80%93%20Regressao_60_0.png)
     
 
 
@@ -730,7 +737,7 @@ outlier.plot(kind='scatter', x='x', y='y', s=100, figsize=(10, 5));
 
 
     
-![png](18%20%E2%80%93%20Regressao_files/18%20%E2%80%93%20Regressao_76_0.png)
+![png](18%20%E2%80%93%20Regressao_files/18%20%E2%80%93%20Regressao_77_0.png)
     
 
 
@@ -755,7 +762,7 @@ plot_regression_line(outlier, 'x', 'y')
 
 
     
-![png](18%20%E2%80%93%20Regressao_files/18%20%E2%80%93%20Regressao_79_0.png)
+![png](18%20%E2%80%93%20Regressao_files/18%20%E2%80%93%20Regressao_80_0.png)
     
 
 
@@ -789,7 +796,7 @@ plot_regression_line(without_outlier, 'x', 'y')
 
 
     
-![png](18%20%E2%80%93%20Regressao_files/18%20%E2%80%93%20Regressao_85_0.png)
+![png](18%20%E2%80%93%20Regressao_files/18%20%E2%80%93%20Regressao_86_0.png)
     
 
 
@@ -844,7 +851,7 @@ plot_errors(outlier, a_outlier, b_outlier)
 
 
     
-![png](18%20%E2%80%93%20Regressao_files/18%20%E2%80%93%20Regressao_98_0.png)
+![png](18%20%E2%80%93%20Regressao_files/18%20%E2%80%93%20Regressao_99_0.png)
     
 
 
@@ -874,7 +881,7 @@ plot_errors(without_outlier, m_no_outlier, b_no_outlier)
 
 
     
-![png](18%20%E2%80%93%20Regressao_files/18%20%E2%80%93%20Regressao_102_0.png)
+![png](18%20%E2%80%93%20Regressao_files/18%20%E2%80%93%20Regressao_103_0.png)
     
 
 
