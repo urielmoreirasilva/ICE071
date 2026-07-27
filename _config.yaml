@@ -3,3 +3,4 @@ description: "Repositório para a disciplina ICE071 – Fundamentos de Ciência 
 baseurl: "/ICE071"
 url: "https://urielmoreirasilva.github.io"
 remote_theme: just-the-docs/just-the-docs
+math: mathjax
