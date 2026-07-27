@@ -3,6 +3,7 @@ layout: default
 title: "Tópico 12 – Distribuições e Amostragem"
 parent: "Aulas"
 nav_order: 12
+math: true
 ---
 # Tópico 12 – Distribuições e Amostragem [<img src="images/colag_logo.svg" style="float: right; margin-right: 0%; vertical-align: middle; width: 6.5%;">](https://colab.research.google.com/github/urielmoreirasilva/urielmoreirasilva.github.io/blob/main/aulas/T%C3%B3pico%2012%20%E2%80%93%20Amostragem/12%20%E2%80%93%20Amostragem.ipynb) [<img src="images/github_logo.svg" style="float: right; margin-right: 0%; vertical-align: middle; width: 3.25%;">](https://github.com/urielmoreirasilva/urielmoreirasilva.github.io/blob/main/aulas/T%C3%B3pico%2012%20%E2%80%93%20Amostragem/12%20%E2%80%93%20Amostragem.ipynb)
 
