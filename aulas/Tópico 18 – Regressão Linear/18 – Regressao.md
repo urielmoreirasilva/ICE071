@@ -4,7 +4,6 @@ title: "Tópico 18 - Processamento de Sinais"
 parent: "Aulas"
 nav_order: 18
 ---
-
 # Tópico 18 – Regressão Linear [<img src="images/colag_logo.svg" style="float: right; margin-right: 0%; vertical-align: middle; width: 6.5%;">](https://colab.research.google.com/github/urielmoreirasilva/urielmoreirasilva.github.io/blob/main/aulas/T%C3%B3pico%2018%20%E2%80%93%20Correla%C3%A7%C3%A3o%2F18%20%E2%80%93%20Correlacao.ipynb) [<img src="images/github_logo.svg" style="float: right; margin-right: 0%; vertical-align: middle; width: 3.25%;">](https://github.com/urielmoreirasilva/urielmoreirasilva.github.io/blob/main/aulas/T%C3%B3pico%2018%20%E2%80%93%20Correla%C3%A7%C3%A3o%2F18%20%E2%80%93%20Correlacao.ipynb)
 
 Finalmente, após explorarmos o conceito de correlação, chegamos ao último tópico desse curso: o de regressão linear!
